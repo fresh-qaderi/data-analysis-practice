@@ -1,0 +1,11 @@
+[{"name":"Tehran","longitude":51.23,"latitude":35.41,"pop":10000},
+        {"name":"Mashhad","longitude":59.31,"latitude":36.19,"pop":3000},
+        {"name":"Isfahan","longitude":51.40,"latitude":32.38,"pop":2000},
+        {"name":"Karaj","longitude":50.59,"latitude":35.49,"pop":1800},
+        {"name":"Shiraz","longitude":52.32,"latitude":29.37,"pop":1800},
+        {"name":"Tabriz","longitude":46.17,"latitude":38.42,"pop":1700},
+        {"name":"Qom","longitude":50.52,"latitude":34.38,"pop":1300},
+        {"name":"Ahvaz","longitude":48.41,"latitude":31.19,"pop":1200},
+        {"name":"Kermanshah","longitude":47.47,"latitude":34.19,"pop":900},
+        {"name":"Oroumieh","longitude":45.43,"latitude":37.32,"pop":700}]
+

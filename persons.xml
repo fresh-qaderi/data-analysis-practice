@@ -1,0 +1,13 @@
+<persons>
+    <person>
+        <name>ali</name>
+        <family>alavi</family>
+        <age>24</age>
+    </person>
+
+    <person>
+        <name>xml</name>
+        <family>xml</family>
+        <age>28</age>
+    </person>
+</persons>
